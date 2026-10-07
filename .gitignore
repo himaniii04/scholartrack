@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+scholarship.db
+.venv/
+venv/
+.env
